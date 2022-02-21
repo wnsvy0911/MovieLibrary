@@ -1,0 +1,4 @@
+2022-02-20 23:28:46.5542|ERROR|MovieLibrary.MovieManager|There has been an Exception Could not find file 'C:\Users\jpkim\OneDrive\바탕 화면\Movie\movies.csv'.
+2022-02-20 23:28:46.5870|INFO|MovieLibrary.Program|Movie Manager loaded.
+2022-02-20 23:29:00.2202|INFO|MovieLibrary.Program|Users choice = 1
+2022-02-20 23:29:00.2222|ERROR|MovieLibrary.Program|Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
